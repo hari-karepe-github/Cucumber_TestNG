@@ -1,6 +1,4 @@
-# Cucumber_TestNG
- 
-selenium-cucumber-java
+# Cucumber_TestNG (selenium-cucumber-java)
 =================
 
 selenium-cucumber : Automation Testing Using Java
